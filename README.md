@@ -8,7 +8,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/pigo456/Swisstronik-deployed-PERC-20.git
 ```
 
 ```
